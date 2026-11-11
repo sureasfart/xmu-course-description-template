@@ -11,10 +11,11 @@
   // Cover
    page()[
     #align(center)[
-      #if cover != none {
-        image(cover.logo_path, width: cover.logo_width)
+      #image(cover.logo_path, width: cover.logo_width*50%)
+      #if not cover.logo_with_university_name {
+        text(weight: "semibold", size: 24pt)[#university]
+        v(1fr)
       }
-     
       #text(weight: "bold", size: 30pt)[#university]
 
       #text(weight: "bold", size: 30pt, "Course Description")
