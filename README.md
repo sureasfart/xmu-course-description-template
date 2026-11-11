@@ -1,8 +1,8 @@
 # 课程描述模板 / Course Description Template
 
-本仓库提供了一个 [Typst](https://typst.app/) 课程描述模板，旨在帮助生成清晰专业的课程摘要，适合申请欧陆学校时使用。本版本主要改动为，将课程内容与课程分类分开保存，方便根据不同项目的申请要求调整模块及课程顺序。
+本仓库提供了一个 [Typst](https://typst.app/) 课程描述模板，旨在帮助生成清晰专业的课程摘要，适合申请欧陆学校时使用。基于已有模板，此版本主要改动为，将课程内容与课程分类分开保存，方便根据不同项目的申请要求调整模块及课程顺序。
 
-A [Typst](https://typst.app/) course description template for applications to universities in continental Europe. The main change of this version to separate course content from category arrangements, making it easier to reorganize modules and courses for different programmes.
+A [Typst](https://typst.app/) course description template for applications to universities in continental Europe. Based on the original templates, main change here is to separate course content from category arrangements, making it easier to reorganize modules and courses for different programmes.
 
 - 修改适用于厦大的学分制度说明。 / Specializes credit-system explanation for XMU.
 - 增加了在目录中自动计算课程 ECTS 的功能。 / Auto-calculates course ECTS values in the table of contents.
