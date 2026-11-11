@@ -8,12 +8,12 @@
   name: "Your Name",
   id: "Your Student ID",
   // The cover image settings
-   // cover: none,
-  cover: (
-    logo_path: "logo.png",
-    logo_width: 100%,
-    logo_with_university_name: true,
-  ),
+  cover: none,
+  // cover: (
+  //   logo_path: "logo.png",
+  //   logo_width: 100%,
+  //   logo_with_university_name: true,
+  // ),
   // 可选是否需要logo
 
   // The watermark image settings as the background of the document
